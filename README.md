@@ -58,9 +58,8 @@ Ative a confirmação automática de e-mail e a recuperação de senha [Recupera
 
 Resultado final "LOVABLE": https://lovable.dev/projects/44b831dd-618e-4641-b35d-98f34ab6a54c?messageId=aimsg_01khrckpcsexweb7btv3r3gerp2
 
-Resumo das Funcionalidades do App
 
-# 💬 Funcionalidades do App
+# 💬 Resumo das Funcionalidades do App
 
 ## 🎯 Chat Conversacional Inteligente
 
