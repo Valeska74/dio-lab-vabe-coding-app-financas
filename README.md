@@ -56,147 +56,122 @@ Crie um APP de Finanças pessoais com base no seguinte PRD (Product Requirement 
 Tentei excluir dados incluídos por equívoco via chat, mas não consegui. Ao pedir para excluir uma despesa, ela é duplicada. Verificar e corrigir o comportamento da coleta de dados, disponibilizando opção para retificação de informações ou estorno.
 Ative a confirmação automática de e-mail e a recuperação de senha [Recuperação de senha implementada com sucesso (páginas de "esqueci a senha" e "redefibir senha" + link no login)]
 
-Resultado final no lovable: https://lovable.dev/projects/44b831dd-618e-4641-b35d-98f34ab6a54c?messageId=aimsg_01khrckpcsexweb7btv3r3gerp2
+Resultado final "LOVABLE": https://lovable.dev/projects/44b831dd-618e-4641-b35d-98f34ab6a54c?messageId=aimsg_01khrckpcsexweb7btv3r3gerp2
 
 Resumo das Funcionalidades do App
 
-1. Chat Conversacional Inteligente
+# 💬 Funcionalidades do App
 
-Registre suas transações financeiras conversando naturalmente em português brasileiro. O sistema entende suas intenções e processa linguagem natural de forma intuitiva.
+## 🎯 Chat Conversacional Inteligente
 
-Exemplos de interações:
+Registre suas transações financeiras **conversando naturalmente** em português brasileiro. O sistema entende suas intenções e processa linguagem natural de forma intuitiva.
 
-•
+**Exemplos:**
+```
 "Gastei 50 reais no almoço"
-
-•
 "Recebi 1000 reais de freelance"
-
-•
 "Quero economizar 500 reais este mês"
+```
 
-O aplicativo adapta-se aos seus padrões de comunicação ao longo do tempo, tornando cada interação mais personalizada.
+O aplicativo se adapta aos seus padrões de comunicação ao longo do tempo, tornando cada interação mais personalizada.
 
-2. Classificação Automática de Transações
+---
+
+## 🏷️ Classificação Automática de Transações
 
 Suas transações são categorizadas automaticamente com base em:
 
-•
-Contexto da mensagem: O sistema analisa o que você disse
+| Critério | Descrição |
+|----------|-----------|
+| 📝 **Contexto** | O sistema analisa o que você disse |
+| 📊 **Padrões** | Aprende com suas transações anteriores |
+| 🤖 **IA** | Utiliza inteligência artificial para melhorar |
+| ✏️ **Correção Manual** | Você pode ajustar categorias quando necessário |
 
-•
-Padrões históricos: Aprende com suas transações anteriores
+Essa abordagem garante que suas despesas e receitas sejam **sempre organizadas corretamente**.
 
-•
-Inteligência artificial: Utiliza IA para melhorar a categorização
+---
 
-•
-Correção manual: Você pode corrigir categorias quando necessário
+## 🎯 Sistema de Metas Financeiras
 
-Essa abordagem garante que suas despesas e receitas sejam sempre organizadas corretamente.
+Defina e acompanhe suas metas com **feedback em tempo real**:
 
-3. Sistema de Metas Financeiras
+- ✅ **Visualização de progresso** — Veja quanto você já economizou
+- 📢 **Feedback automático** — Receba atualizações sobre seu andamento
+- 🔔 **Alertas** — Seja notificado quando suas metas forem atingidas
+- 💡 **Recomendações personalizadas** — Dicas para atingir seus objetivos
 
-Defina e acompanhe suas metas financeiras com feedback em tempo real:
+---
 
-•
-Visualização de progresso: Veja o quanto você já economizou
-
-•
-Feedback automático: Receba atualizações sobre seu andamento
-
-•
-Alertas: Seja notificado quando suas metas são atingidas
-
-•
-Recomendações personalizadas: Dicas para atingir seus objetivos
-
-4. Agente Financeiro Virtual
+## 🤖 Agente Financeiro Virtual
 
 Um assistente inteligente que oferece:
 
-•
-Análise de padrões de gastos: Entenda seus hábitos financeiros
+- 📈 **Análise de padrões** — Entenda seus hábitos financeiros
+- 💰 **Dicas de economia** — Recomendações baseadas em seus dados
+- 💡 **Sugestões automáticas** — Ideias para melhorar sua saúde financeira
+- 🗣️ **Conversas contextualizadas** — O agente aprende com suas interações
 
-•
-Dicas personalizadas de economia: Recomendações baseadas em seus dados
+---
 
-•
-Sugestões automáticas: Ideias para melhorar sua saúde financeira
+## 📊 Dashboard com Relatórios Visuais
 
-•
-Conversas contextualizadas: O agente aprende com suas interações
+Visualize seus dados financeiros através de **gráficos intuitivos e informativos**:
 
-5. Dashboard com Relatórios Visuais
+### 📈 Evolução Financeira
+Gráfico de linha mostrando receitas e despesas dos últimos 6 meses. Visualize tendências e padrões facilmente.
 
-Visualize seus dados financeiros através de gráficos intuitivos e informativos:
+### 🥧 Gastos por Categoria
+Gráfico de pizza que distribui suas despesas por categoria. Identifique rapidamente onde seu dinheiro está sendo gasto.
 
-Evolução Financeira
+### 💳 Resumo Financeiro
+Cartões informativos com:
+- **Receita Total** — Soma de todas as receitas
+- **Despesa Total** — Soma de todas as despesas
+- **Saldo** — Diferença entre receitas e despesas
 
-Gráfico de linha mostrando a evolução de receitas e despesas nos últimos 6 meses, permitindo visualizar tendências e padrões.
+### 🎯 Visualização de Metas
+Barras de progresso para cada meta financeira, mostrando seu progresso em relação ao objetivo.
 
-Gastos por Categoria
+### 📋 Histórico de Transações
+Listagem das últimas transações com data, descrição e valor.
 
-Gráfico de pizza que distribui suas despesas por categoria, facilitando a identificação de onde seu dinheiro está sendo gasto.
+---
 
-Resumo Financeiro
-
-Cards informativos exibindo:
-
-•
-Receita Total: Soma de todas as receitas
-
-•
-Despesa Total: Soma de todas as despesas
-
-•
-Saldo: Diferença entre receitas e despesas
-
-Visualização de Metas
-
-Barras de progresso para cada meta financeira, mostrando quanto você já economizou em relação ao objetivo.
-
-Histórico de Transações
-
-Listagem das últimas transações registradas com data, descrição e valor.
-
-6. Histórico Completo
+## 📚 Histórico Completo
 
 Acesse facilmente todos os seus dados financeiros:
 
-•
-Histórico de conversas: Revise todas as suas interações com o assistente
+- 💬 **Histórico de conversas** — Revise todas as suas interações com o assistente
+- 📝 **Registro de transações** — Consulte o histórico completo de gastos e receitas
+- 🔍 **Busca e filtros** — Encontre transações específicas rapidamente
+- ✏️ **Edição e exclusão** — Corrija ou remova transações quando necessário
 
-•
-Registro de transações: Consulte o histórico completo de gastos e receitas
+---
 
-•
-Busca e filtros: Encontre transações específicas rapidamente
+## 🔒 Autenticação Segura
 
-•
-Edição e exclusão: Corrija ou remova transações quando necessário
+Seus dados financeiros estão **protegidos com**:
 
+- 🔐 **OAuth** — Sistema de autenticação seguro e confiável
+- 🛡️ **Proteção de dados** — Acesso restrito apenas a usuários autenticados
 
-7. Autenticação Segura
+---
 
-Seus dados financeiros estão protegidos com:
+## ♿ Design Universal e Acessibilidade
 
-•
-OAuth: Sistema de autenticação seguro e confiável
+O aplicativo foi desenvolvido para funcionar bem para o **máximo de usuários possíveis**:
 
-•
-Proteção de dados: Acesso restrito apenas a usuários autenticados
+| Recurso | Benefício |
+|---------|-----------|
+| 🎨 **Contraste Adequado** | Cores WCAG AA para máxima legibilidade |
+| ⌨️ **Navegação por Teclado** | Interface completamente navegável sem mouse |
+| 🔊 **Leitores de Tela** | Compatível com tecnologias assistivas |
+| 🔤 **Tamanhos Ajustáveis** | Suporte a zoom e redimensionamento de fontes |
+| 🌙 **Modo Escuro/Claro** | Temas para diferentes condições de iluminação |
+| 📱 **Responsivo** | Funciona em desktop, tablet e mobile |
 
-
-8. Design Universal e Acessibilidade
-
-O aplicativo foi desenvolvido para funcionar bem para o máximo de usuários possíveis.
-
-Desenvolvido com Foco em Acessibilidade
-
-O App foi desenvolvido com a filosofia de Design Universal, garantindo que todos os usuários, independentemente de suas capacidades, possam utilizar o aplicativo de forma eficiente e agradável.
-
-Cada decisão de design, desde a escolha de cores até a estrutura de navegação, foi pensada para incluir o máximo de pessoas possível.
+**Cada decisão de design foi pensada para incluir o máximo de pessoas possível.**
 
 
 Uma breve reflexão sobre o processo:
