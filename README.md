@@ -4,7 +4,6 @@ Um aplicativo de gestão de finanças pessoais inovador que combina inteligênci
 
 PRD refinado na MANUS
 
-*** markdown
 ## 1. Introdução
 
 Este Documento de Requisitos de Produto (PRD) descreve um aplicativo inovador de organização de finanças pessoais, projetado para simplificar o controle financeiro através de uma interface de conversação em linguagem natural. O objetivo é oferecer uma experiência intuitiva e acessível, eliminando a necessidade de formulários complexos ou planilhas manuais.
