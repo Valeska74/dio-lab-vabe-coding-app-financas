@@ -51,12 +51,19 @@ Para otimizar a geração no Lovable, é crucial fornecer informações que ajud
 
 Este PRD revisado oferece uma base sólida para o desenvolvimento do aplicativo, com informações mais detalhadas e direcionadas para a utilização eficaz de ferramentas como o Lovable, aproveitando o conceito de Vibe Coding para uma geração de código mais alinhada com a visão do produto.
 
-Interações com o Lovable:
-Crie um APP de Finanças pessoais com base no seguinte PRD (Product Requirement Document) [PRD]
-Tentei excluir dados incluídos por equívoco via chat, mas não consegui. Ao pedir para excluir uma despesa, ela é duplicada. Verificar e corrigir o comportamento da coleta de dados, disponibilizando opção para retificação de informações ou estorno.
-Ative a confirmação automática de e-mail e a recuperação de senha [Recuperação de senha implementada com sucesso (páginas de "esqueci a senha" e "redefibir senha" + link no login)]
+# 📱 Interações com Lovable
 
-Resultado final "LOVABLE": https://lovable.dev/projects/44b831dd-618e-4641-b35d-98f34ab6a54c?messageId=aimsg_01khrckpcsexweb7btv3r3gerp2
+## 🐛 Crie um APP de Finanças pessoais com base no seguinte PRD (Product Requirement Document) [PRD]
+
+## ⚠️ Tentei excluir dados incluídos por equívoco via chat, mas não consegui. Ao pedir para excluir uma despesa, ela é duplicada. Verificar e corrigir o comportamento da coleta de dados, disponibilizando opção para retificação de informações ou estorno.
+
+## 🔐 Ative a confirmação automática de e-mail e a recuperação de senha [Recuperação de senha implementada com sucesso (páginas de "esqueci a senha" e "redefibir senha" + link no login)]
+
+
+### 📊 Resultado Final
+
+"LOVABLE": https://lovable.dev/projects/44b831dd-618e-4641-b35d-98f34ab6a54c?messageId=aimsg_01khrckpcsexweb7btv3r3gerp2
+
 
 
 # 💬 Resumo das Funcionalidades do App
