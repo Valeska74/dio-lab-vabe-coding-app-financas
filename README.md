@@ -50,14 +50,11 @@ Para otimizar a geração no Lovable, é crucial fornecer informações que ajud
 Este PRD revisado oferece uma base sólida para o desenvolvimento do aplicativo, com informações mais detalhadas e direcionadas para a utilização eficaz de ferramentas como o Lovable, aproveitando o conceito de Vibe Coding para uma geração de código mais alinhada com a visão do produto.
 
 Uma breve reflexão sobre o processo:
+
+
 O desenvolvimento do Finanças Vibe Chat seguiu uma abordagem estruturada e bem planejada, começando com a definição clara dos requisitos através do PRD (Product Requirements Document), passando pela implementação das funcionalidades e finalizando com testes e documentação. 
 O projeto resultante reflete exatamente o que eu imaginava: um assistente financeiro que entende linguagem natural e torna o controle de gastos simples e intuitivo.
-O que não funcionou como esperado?
-Honestamente, tudo funcionou muito bem! Mas se eu tivesse que mencionar algo, seria:
-Algumas funcionalidades como "dicas personalizadas do Agente Financeiro" ainda precisam de refinamento.
-Gostaria de ter testado o aplicativo de forma mais interativa durante o desenvolvimento para validar se a experiência de usuário estava realmente alinhada com minha visão.
-Seria útil ter dados de exemplo pré-carregados para visualizar como o dashboard fica com transações reais.
-Encontrado ponto de fricção na manutenção de dados incluídos, que necessitou de algumas tentativas de ajuste para acolhimento de pedidos de exclusão.
+
 O que funcionou bem?
 O chat funciona exatamente como imaginei - simples, intuitivo e em português brasileiro. Consegui conversar naturalmente sobre meus gastos.
 As cores com alto contraste, navegação por teclado e compatibilidade com leitores de tela tornaram o app verdadeiramente inclusivo, como eu solicitei.
@@ -65,3 +62,15 @@ Os gráficos de evolução temporal, distribuição por categoria e visualizaç�
 O sistema de login com OAuth me dá confiança de que meus dados financeiros estão protegidos.
 A estrutura do projeto é clara e bem documentada, facilitando futuras melhorias e manutenção.
 A documentação gerada é profissional e deixa claro como o projeto funciona e como contribuir.
+
+
+O que não funcionou como esperado?
+Honestamente, tudo funcionou muito bem! Mas se eu tivesse que mencionar algo, seria:
+Algumas funcionalidades como "dicas personalizadas do Agente Financeiro" ainda precisam de refinamento.
+Gostaria de ter testado o aplicativo de forma mais interativa durante o desenvolvimento para validar se a experiência de usuário estava realmente alinhada com minha visão.
+Seria útil ter dados de exemplo pré-carregados para visualizar como o dashboard fica com transações reais.
+Encontrado ponto de fricção na manutenção de dados incluídos, que necessitou de algumas tentativas de ajuste para acolhimento de pedidos de exclusão.
+
+O que aprendi sobre conversar com IAs?
+A IA gerou código, mas eu precisei validar se funcionava. O projeto teve testes, screenshots e verificações de status. A IA é uma ferramenta produtiva, mas nós é quem somos o responsável final pela qualidade.
+Lição: Sempre revisar, testar e validar o output da IA. Não assumir que está correto só porque foi gerado.
