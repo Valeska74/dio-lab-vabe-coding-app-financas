@@ -2,6 +2,9 @@
 Um aplicativo de gestão de finanças pessoais inovador que combina inteligência artificial com uma interface conversacional intuitiva. Controle seus gastos e receitas através de conversas naturais em português brasileiro, receba categorização automática de transações e acompanhe suas metas financeiras com feedback inteligente.
 # Documento de Requisitos de Produto (PRD) - App de Organização de Finanças Pessoais
 
+PRD refinado na MANUS
+
+*** markdown
 ## 1. Introdução
 
 Este Documento de Requisitos de Produto (PRD) descreve um aplicativo inovador de organização de finanças pessoais, projetado para simplificar o controle financeiro através de uma interface de conversação em linguagem natural. O objetivo é oferecer uma experiência intuitiva e acessível, eliminando a necessidade de formulários complexos ou planilhas manuais.
@@ -48,6 +51,8 @@ Para otimizar a geração no Lovable, é crucial fornecer informações que ajud
 *   **Design Universal:** O aplicativo deve ser projetado para ser acessível e utilizável pelo maior número possível de pessoas, independentemente de suas habilidades, idade ou contexto de uso. Isso inclui considerar contraste de cores, tamanhos de fonte ajustáveis, navegação por teclado, compatibilidade com leitores de tela e legendas para qualquer conteúdo de áudio/vídeo. A IA deve priorizar a implementação de padrões de acessibilidade desde o início.
 
 Este PRD revisado oferece uma base sólida para o desenvolvimento do aplicativo, com informações mais detalhadas e direcionadas para a utilização eficaz de ferramentas como o Lovable, aproveitando o conceito de Vibe Coding para uma geração de código mais alinhada com a visão do produto.
+
+***
 
 Uma breve reflexão sobre o processo:
 
