@@ -60,9 +60,9 @@ Este PRD revisado oferece uma base sólida para o desenvolvimento do aplicativo,
 ## 🔐 Ative a confirmação automática de e-mail e a recuperação de senha [Recuperação de senha implementada com sucesso (páginas de "esqueci a senha" e "redefibir senha" + link no login)]
 
 
-### 📊 Resultado Final
+### 📊 Resultado Final 
 
-"LOVABLE": https://lovable.dev/projects/44b831dd-618e-4641-b35d-98f34ab6a54c?messageId=aimsg_01khrckpcsexweb7btv3r3gerp2
+Lovable: ([https://wordy-wallet-wise.lovable.app](https://wordy-wallet-wise.lovable.app))
 
 
 
